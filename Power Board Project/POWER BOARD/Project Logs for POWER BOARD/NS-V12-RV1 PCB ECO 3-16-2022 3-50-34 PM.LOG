@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VIN Pin=T1-1
+Removed Pin From Net: NetName=VIN Pin=T1-2
+Removed Pin From Net: NetName=NetR6_2 Pin=T1-5
+Removed Pin From Net: NetName=NetR6_2 Pin=T1-6
+Added Pin To Net: NetName=NetR6_2 Pin=T1-1
+Added Pin To Net: NetName=NetR6_2 Pin=T1-2
+Added Pin To Net: NetName=VIN Pin=T1-5
+Added Pin To Net: NetName=VIN Pin=T1-6
+Added Room: Name=NS-V12-RV1

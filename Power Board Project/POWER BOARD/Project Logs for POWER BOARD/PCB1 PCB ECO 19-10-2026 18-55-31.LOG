@@ -1,0 +1,3 @@
+Change Component Comment : Designator=0.1uf/100v Old Comment=C11 New Comment=0.1uf/100v
+Change Component Designator: OldDesignator=0.1uf/100v NewDesignator=C11
+Change Net Name : Old Net Name=Net0.1uf/100v_1 New Net Name=NetC11_1

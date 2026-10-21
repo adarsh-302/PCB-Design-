@@ -1,0 +1,51 @@
+Added Component: Designator=0R(R_0603)
+Added Component: Designator=C6(CAP_ALLU 2.5mm)
+Added Component: Designator=C12(C_0805)
+Added Component: Designator=C15(CAP_ALLU 2.5mm)
+Added Component: Designator=C18(CAP_ALLU 2.5mm)
+Added Component: Designator=D2(Diode_SMB)
+Added Component: Designator=L2(Inductor)
+Added Component: Designator=R3(R_0805)
+Added Component: Designator=R5(R_0805)
+Added Component: Designator=R8(R_0805)
+Added Component: Designator=R9(R_0805)
+Added Component: Designator=T2(HDR1X6_2.54mm)
+Added Pin To Net: NetName=Net0R_2 Pin=0R-2
+Added Pin To Net: NetName=VIN Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=VIN Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=12V Pin=C15-1
+Added Pin To Net: NetName=NetC12_2 Pin=C15-2
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC12_2 Pin=C18-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetC12_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_1 Pin=L2-1
+Added Pin To Net: NetName=12V Pin=L2-2
+Added Pin To Net: NetName=12V Pin=R3-1
+Added Pin To Net: NetName=NetC13_2 Pin=R3-2
+Added Pin To Net: NetName=VIN Pin=R5-1
+Added Pin To Net: NetName=NetC18_1 Pin=R5-2
+Added Pin To Net: NetName=NetC13_2 Pin=R8-1
+Added Pin To Net: NetName=NetC12_2 Pin=R8-2
+Added Pin To Net: NetName=NetC6_2 Pin=R9-1
+Added Pin To Net: NetName=NetC12_2 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Pin To Net: NetName=Net0R_2 Pin=T2-3
+Added Pin To Net: NetName=Net0R_2 Pin=T2-4
+Added Pin To Net: NetName=VIN Pin=T2-5
+Added Pin To Net: NetName=VIN Pin=T2-6
+Added Member To Class: ClassName=COPY Member=Component 0R R10
+Added Member To Class: ClassName=COPY Member=Component C6 CAP
+Added Member To Class: ClassName=COPY Member=Component C12 CAP
+Added Member To Class: ClassName=COPY Member=Component C15 CAP
+Added Member To Class: ClassName=COPY Member=Component C18 CAP
+Added Member To Class: ClassName=COPY Member=Component D2 DIODE
+Added Member To Class: ClassName=COPY Member=Component L2 INDUCTOR IRON/SM
+Added Member To Class: ClassName=COPY Member=Component R3 RESISTOR
+Added Member To Class: ClassName=COPY Member=Component R5 RESISTOR
+Added Member To Class: ClassName=COPY Member=Component R8 RESISTOR
+Added Member To Class: ClassName=COPY Member=Component R9 RESISTOR
+Added Member To Class: ClassName=COPY Member=Component T2 1X3PIN

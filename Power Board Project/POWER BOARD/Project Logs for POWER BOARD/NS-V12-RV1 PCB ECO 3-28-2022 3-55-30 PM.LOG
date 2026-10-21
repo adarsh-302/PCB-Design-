@@ -1,0 +1,7 @@
+Added Component: Designator=F*(Fiducial)
+Added Member To Class: ClassName=NS-V12-RV1 Member=Component C2 C0603
+Added Member To Class: ClassName=NS-V12-RV1 Member=Component C11 C0603
+Added Member To Class: ClassName=NS-V12-RV1 Member=Component F* BNC
+Added Member To Class: ClassName=NS-V12-RV1 Member=Component R1 RESISTOR
+Added Member To Class: ClassName=NS-V12-RV1 Member=Component R6 RESISTOR
+Added Room: Name=NS-V12-RV1

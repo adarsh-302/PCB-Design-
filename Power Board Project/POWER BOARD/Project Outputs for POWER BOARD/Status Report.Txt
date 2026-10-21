@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [NS-V12-RV1.PcbDoc]
+   Generated File[NS-V12-RV1-RoundHoles-Plated.TXT]
+   Generated File[NS-V12-RV1-SlotHoles-Plated.TXT]
+   Generated File[NS-V12-RV1.DRL]
+   Generated File[NS-V12-RV1-BoardEdgeRout.TXT]
+   Generated File[NS-V12-RV1.LDP]
+   Generated File[NS-V12-RV1.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 17:54:18 On 16-07-2026

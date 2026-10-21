@@ -1,0 +1,37 @@
+Change Component Footprint: Designator=C2 Old Footprint=C_0603 New Footprint=C_0805
+Change Component Footprint: Designator=C4 Old Footprint=C_0603 New Footprint=C_0805
+Change Component Footprint: Designator=C7 Old Footprint=C_0603 New Footprint=C_0805
+Change Component Footprint: Designator=C9 Old Footprint=C_0603 New Footprint=C_0805
+Change Component Footprint: Designator=C11 Old Footprint=C_0603 New Footprint=C_0805
+Change Component Footprint: Designator=C68 Old Footprint=C_0603 New Footprint=C_0805
+Change Component Footprint: Designator=C1 Old Footprint=C_0603 New Footprint=C_1206
+Change Component Comment : Designator=C7 Old Comment=C0603 New Comment=0.1uf/100v
+Change Component Comment : Designator=C1 Old Comment=C0603 New Comment=C1
+Change Component Comment : Designator=C2 Old Comment=C0603 New Comment=c2
+Change Component Comment : Designator=C4 Old Comment=C0603 New Comment=c4
+Change Component Comment : Designator=C68 Old Comment=C0603 New Comment=c8
+Change Component Comment : Designator=C9 Old Comment=C0603 New Comment=C9
+Change Component Comment : Designator=C10 Old Comment=C0603 New Comment=C10
+Change Component Comment : Designator=C11 Old Comment=C0603 New Comment=C11
+Change Component Comment : Designator=C5 Old Comment=CAP New Comment=47 uf/100v 
+Change Component Comment : Designator=C3 Old Comment=CAP New Comment=c3
+Change Component Comment : Designator=R7 Old Comment=RESISTOR New Comment=0R
+Change Component Comment : Designator=R1 Old Comment=RESISTOR New Comment=22k
+Change Component Comment : Designator=R6 Old Comment=RESISTOR New Comment=100k
+Change Component Comment : Designator=R2 Old Comment=RESISTOR New Comment=R2
+Change Component Comment : Designator=R4 Old Comment=RESISTOR New Comment=R4
+Change Component Designator: OldDesignator=C1 NewDesignator=1uf/100v
+Change Component Designator: OldDesignator=C2 NewDesignator=47pf/25v
+Change Component Designator: OldDesignator=C3 NewDesignator=47pf/100v
+Change Component Designator: OldDesignator=C4 NewDesignator=10.1u/f100v
+Change Component Designator: OldDesignator=C9 NewDesignator=47pf/25v
+Change Component Designator: OldDesignator=C10 NewDesignator=0.1UF/100V
+Change Component Designator: OldDesignator=C11 NewDesignator=0.1uf/100v
+Change Component Designator: OldDesignator=C68 NewDesignator=1.0uf/100v
+Change Component Designator: OldDesignator=R2 NewDesignator=2.2k
+Change Component Designator: OldDesignator=R4 NewDesignator=2k
+Change Net Name : Old Net Name=NetC1_1 New Net Name=Net1uf/100v_1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=Net2k_1
+Change Net Name : Old Net Name=NetC9_1 New Net Name=Net2.2k_2
+Change Net Name : Old Net Name=NetC11_1 New Net Name=Net0.1uf/100v_1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=Net2.2k_1

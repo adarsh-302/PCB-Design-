@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NS-V12-RV1.PcbDoc   16-07-2026  17:54:18
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : NS-V12-RV1-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : NS-V12-RV1-SlotHoles-Plated.TXT
+EIA File   : NS-V12-RV1.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.254mm (10mil)         +/-0.076mm (3mil)                 Round             41        PTH        171.57mm (6.75inch)
+T2      0.914mm (36mil)         +/-0.076mm (3mil)                 Round             8         PTH        50.06mm (1.97inch)
+T3      1.016mm (40mil)         +/-0.076mm (3mil)                 Round             2         PTH        3.50mm (0.14inch)
+T4      1.016mm (40mil)         +/-0.076mm (3mil)                 Slot              3         PTH        29.88mm (1.18inch)
+T5      3mm (118mil)            +/-0.076mm (3mil)                 Round             1         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              55
+
+Total Processing Time (hh:mm:ss) : 00:00:00

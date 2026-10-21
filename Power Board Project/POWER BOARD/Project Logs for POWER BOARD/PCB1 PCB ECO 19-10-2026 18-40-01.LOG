@@ -1,0 +1,10 @@
+Change Component Comment : Designator=47pf/25v Old Comment=c2 New Comment=47pf/25v
+Change Component Comment : Designator=47pf/100v Old Comment=c3 New Comment=47pf/100v
+Change Component Comment : Designator=10.1u/f100v Old Comment=c4 New Comment=0.1uf/100v
+Change Component Comment : Designator=1.0uf/100v Old Comment=c8 New Comment=1.0uf/100v
+Change Component Comment : Designator=0.1UF/100V Old Comment=C10 New Comment=0.1 uf/100v
+Change Component Designator: OldDesignator=0.1UF/100V NewDesignator=C10
+Change Component Designator: OldDesignator=1.0uf/100v NewDesignator=C8
+Change Component Designator: OldDesignator=10.1u/f100v NewDesignator=C4
+Change Component Designator: OldDesignator=47pf/25v NewDesignator=C2
+Change Component Designator: OldDesignator=47pf/100v NewDesignator=C3
